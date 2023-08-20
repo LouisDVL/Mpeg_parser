@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+.terraform
+*.tfstate
+*.backup
+.terraform.*
+/lambda/main
+/lambda/main.zip
