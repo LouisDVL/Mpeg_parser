@@ -1,0 +1,6 @@
+.terraform
+*.tfstate
+*.backup
+.terraform.*
+/lambda/main
+/lambda/main.zip
